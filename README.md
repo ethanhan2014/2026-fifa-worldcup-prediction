@@ -5,13 +5,13 @@ Predicts match scores and win probabilities for the 2026 FIFA World Cup using Au
 ## Quick Start
 
 ```bash
-pip install -r requirements.txt
+uv sync
 
 # Collect data
-python scrapers/run_all.py
+uv run python scrapers/run_all.py
 
 # Run notebooks in order
-jupyter notebook notebooks/
+uv run jupyter notebook notebooks/
 ```
 
 ## Data Sources

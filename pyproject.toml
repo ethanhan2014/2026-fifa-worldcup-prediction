@@ -1,0 +1,18 @@
+[project]
+name = "2026-fifa-worldcup-prediction"
+version = "0.1.0"
+description = "Predict 2026 FIFA World Cup match outcomes using AutoGluon"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "autogluon[tabular]",
+    "scrapling[all]",
+    "cloakbrowser",
+    "pandas",
+    "numpy",
+    "requests",
+    "jupyter",
+    "matplotlib",
+    "seaborn",
+    "scikit-learn",
+]
