@@ -1,0 +1,10 @@
+autogluon[tabular]
+scrapling[all]
+cloakbrowser
+pandas
+numpy
+requests
+jupyter
+matplotlib
+seaborn
+scikit-learn
