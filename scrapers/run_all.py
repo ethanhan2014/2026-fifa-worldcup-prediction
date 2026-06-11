@@ -4,7 +4,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent.parent))
 
-from scrapers import fifa_ranking, elo_ratings, match_history, market_values, injuries
+from scrapers import fifa_ranking, dynamic_elo, match_history, market_values, injuries
 
 
 def main():
@@ -13,9 +13,9 @@ def main():
     print("=" * 60)
 
     scrapers = [
-        ("FIFA Rankings", fifa_ranking.scrape),
-        ("ELO Ratings", elo_ratings.scrape),
         ("Match History", match_history.scrape),
+        ("FIFA Rankings", fifa_ranking.scrape),
+        ("ELO Ratings (dynamic)", dynamic_elo.scrape),
         ("Market Values", market_values.scrape),
         ("Injuries", injuries.scrape),
     ]

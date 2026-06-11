@@ -1,0 +1,64 @@
+date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
+2022-11-21,Senegal,Netherlands,0.0,2.0,FIFA World Cup,Doha,Qatar,True
+2022-11-21,England,Iran,6.0,2.0,FIFA World Cup,Al Rayyan,Qatar,True
+2022-11-21,United States,Wales,1.0,1.0,FIFA World Cup,Al Rayyan,Qatar,True
+2022-11-22,Argentina,Saudi Arabia,1.0,2.0,FIFA World Cup,Lusail,Qatar,True
+2022-11-22,Mexico,Poland,0.0,0.0,FIFA World Cup,Doha,Qatar,True
+2022-11-22,Denmark,Tunisia,0.0,0.0,FIFA World Cup,Al Rayyan,Qatar,True
+2022-11-22,France,Australia,4.0,1.0,FIFA World Cup,Al Wakrah,Qatar,True
+2022-11-23,Germany,Japan,1.0,2.0,FIFA World Cup,Al Rayyan,Qatar,True
+2022-11-23,Spain,Costa Rica,7.0,0.0,FIFA World Cup,Doha,Qatar,True
+2022-11-23,Morocco,Croatia,0.0,0.0,FIFA World Cup,Al Khor,Qatar,True
+2022-11-23,Belgium,Canada,1.0,0.0,FIFA World Cup,Al Rayyan,Qatar,True
+2022-11-24,Switzerland,Cameroon,1.0,0.0,FIFA World Cup,Al Wakrah,Qatar,True
+2022-11-24,Brazil,Serbia,2.0,0.0,FIFA World Cup,Lusail,Qatar,True
+2022-11-24,Uruguay,South Korea,0.0,0.0,FIFA World Cup,Al Rayyan,Qatar,True
+2022-11-24,Portugal,Ghana,3.0,2.0,FIFA World Cup,Doha,Qatar,True
+2022-11-25,Qatar,Senegal,1.0,3.0,FIFA World Cup,Doha,Qatar,False
+2022-11-25,Netherlands,Ecuador,1.0,1.0,FIFA World Cup,Al Rayyan,Qatar,True
+2022-11-25,Wales,Iran,0.0,2.0,FIFA World Cup,Al Rayyan,Qatar,True
+2022-11-25,England,United States,0.0,0.0,FIFA World Cup,Al Khor,Qatar,True
+2022-11-26,Poland,Saudi Arabia,2.0,0.0,FIFA World Cup,Al Rayyan,Qatar,True
+2022-11-26,Argentina,Mexico,2.0,0.0,FIFA World Cup,Lusail,Qatar,True
+2022-11-26,Tunisia,Australia,0.0,1.0,FIFA World Cup,Al Wakrah,Qatar,True
+2022-11-26,France,Denmark,2.0,1.0,FIFA World Cup,Doha,Qatar,True
+2022-11-27,Japan,Costa Rica,0.0,1.0,FIFA World Cup,Al Rayyan,Qatar,True
+2022-11-27,Spain,Germany,1.0,1.0,FIFA World Cup,Al Khor,Qatar,True
+2022-11-27,Belgium,Morocco,0.0,2.0,FIFA World Cup,Doha,Qatar,True
+2022-11-27,Croatia,Canada,4.0,1.0,FIFA World Cup,Al Rayyan,Qatar,True
+2022-11-28,Cameroon,Serbia,3.0,3.0,FIFA World Cup,Al Wakrah,Qatar,True
+2022-11-28,Brazil,Switzerland,1.0,0.0,FIFA World Cup,Doha,Qatar,True
+2022-11-28,South Korea,Ghana,2.0,3.0,FIFA World Cup,Al Rayyan,Qatar,True
+2022-11-28,Portugal,Uruguay,2.0,0.0,FIFA World Cup,Lusail,Qatar,True
+2022-11-29,Ecuador,Senegal,1.0,2.0,FIFA World Cup,Al Rayyan,Qatar,True
+2022-11-29,Qatar,Netherlands,0.0,2.0,FIFA World Cup,Al Khor,Qatar,False
+2022-11-29,Wales,England,0.0,3.0,FIFA World Cup,Al Rayyan,Qatar,True
+2022-11-29,Iran,United States,0.0,1.0,FIFA World Cup,Doha,Qatar,True
+2022-11-30,Poland,Argentina,0.0,2.0,FIFA World Cup,Doha,Qatar,True
+2022-11-30,Saudi Arabia,Mexico,1.0,2.0,FIFA World Cup,Lusail,Qatar,True
+2022-11-30,Australia,Denmark,1.0,0.0,FIFA World Cup,Al Wakrah,Qatar,True
+2022-11-30,Tunisia,France,1.0,0.0,FIFA World Cup,Al Rayyan,Qatar,True
+2022-12-01,Japan,Spain,2.0,1.0,FIFA World Cup,Al Rayyan,Qatar,True
+2022-12-01,Costa Rica,Germany,2.0,4.0,FIFA World Cup,Al Khor,Qatar,True
+2022-12-01,Croatia,Belgium,0.0,0.0,FIFA World Cup,Al Rayyan,Qatar,True
+2022-12-01,Canada,Morocco,1.0,2.0,FIFA World Cup,Doha,Qatar,True
+2022-12-02,Serbia,Switzerland,2.0,3.0,FIFA World Cup,Doha,Qatar,True
+2022-12-02,Cameroon,Brazil,1.0,0.0,FIFA World Cup,Lusail,Qatar,True
+2022-12-02,Ghana,Uruguay,0.0,2.0,FIFA World Cup,Al Wakrah,Qatar,True
+2022-12-02,South Korea,Portugal,2.0,1.0,FIFA World Cup,Al Rayyan,Qatar,True
+2022-12-03,Netherlands,United States,3.0,1.0,FIFA World Cup,Al Rayyan,Qatar,True
+2022-12-03,Argentina,Australia,2.0,1.0,FIFA World Cup,Al Rayyan,Qatar,True
+2022-12-04,France,Poland,3.0,1.0,FIFA World Cup,Doha,Qatar,True
+2022-12-04,England,Senegal,3.0,0.0,FIFA World Cup,Al Khor,Qatar,True
+2022-12-05,Japan,Croatia,1.0,1.0,FIFA World Cup,Al Wakrah,Qatar,True
+2022-12-05,Brazil,South Korea,4.0,1.0,FIFA World Cup,Doha,Qatar,True
+2022-12-06,Morocco,Spain,0.0,0.0,FIFA World Cup,Al Rayyan,Qatar,True
+2022-12-06,Portugal,Switzerland,6.0,1.0,FIFA World Cup,Lusail,Qatar,True
+2022-12-09,Croatia,Brazil,1.0,1.0,FIFA World Cup,Al Rayyan,Qatar,True
+2022-12-09,Netherlands,Argentina,2.0,2.0,FIFA World Cup,Lusail,Qatar,True
+2022-12-10,Morocco,Portugal,1.0,0.0,FIFA World Cup,Doha,Qatar,True
+2022-12-10,England,France,1.0,2.0,FIFA World Cup,Al Khor,Qatar,True
+2022-12-13,Argentina,Croatia,3.0,0.0,FIFA World Cup,Lusail,Qatar,True
+2022-12-14,France,Morocco,2.0,0.0,FIFA World Cup,Al Khor,Qatar,True
+2022-12-17,Croatia,Morocco,2.0,1.0,FIFA World Cup,Al Rayyan,Qatar,True
+2022-12-18,Argentina,France,3.0,3.0,FIFA World Cup,Lusail,Qatar,True
